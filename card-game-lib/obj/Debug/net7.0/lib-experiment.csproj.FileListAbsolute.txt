@@ -1,0 +1,11 @@
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\bin\Debug\net7.0\lib-experiment.deps.json
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\bin\Debug\net7.0\lib-experiment.dll
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\bin\Debug\net7.0\lib-experiment.pdb
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.dll
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\refint\lib-experiment.dll
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\lib-experiment.pdb
+C:\Users\Maxim\source\repos\card-game-lib\card-game-lib\obj\Debug\net7.0\ref\lib-experiment.dll

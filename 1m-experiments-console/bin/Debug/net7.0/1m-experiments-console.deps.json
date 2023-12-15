@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1m-experiments-console/1.0.0": {
+        "dependencies": {
+          "lib-experiment": "1.0.0"
+        },
+        "runtime": {
+          "1m-experiments-console.dll": {}
+        }
+      },
+      "lib-experiment/1.0.0": {
+        "runtime": {
+          "lib-experiment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1m-experiments-console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib-experiment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
